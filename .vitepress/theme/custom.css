@@ -1,0 +1,33 @@
+html.dark .light-only {
+  display: none !important;
+}
+
+html:not(.dark) .dark-only {
+  display: none !important;
+}
+
+:root {
+  --vp-home-hero-name-color: #353535;
+}
+
+.dark {
+  --vp-home-hero-name-color: #ffffff;
+  
+}
+
+.btn-row {
+  display: flex;
+  gap: 1rem;
+}
+
+.column_left {
+  float: left;
+  width: 48%;
+  text-align: center;
+}
+
+.column_right {
+  float: right;
+  width: 48%;
+  text-align: center;
+}

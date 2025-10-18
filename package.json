@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@miletorix/vitepress-back-to-top-button": "^1.0.1",
+    "gh-pages": "^6.3.0",
+    "vitepress": "^2.0.0-alpha.12",
+    "vue": "^3.5.22"
+  },
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview",
+    "deploy": "gh-pages -d .vitepress/dist"
+  }
+}
