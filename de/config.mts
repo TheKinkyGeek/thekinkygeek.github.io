@@ -13,6 +13,20 @@ export default defineConfig({
       {
         items: [
           { text: 'Intro', link: '/de/intro' },
+          { text: 'Architektur', link: '/de/architecture' },
+          { text: 'Safty', link: '/de/safty' },
+          { 
+            text: 'Module', link: '/de/modules',
+            items:[
+              { text: 'Control', link: '/de/modules/control' },
+              { text: 'Estim', link: '/de/modules/estim' },
+              { text: 'Supply', link: '/de/modules/supply' }
+            ]
+          },
+          { text: 'Peripherie', link: '/de/periphery' },
+          { 
+            text: 'Topping', link: '/de/topping',
+          },
         ]
       }
     ],
