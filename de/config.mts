@@ -27,6 +27,7 @@ export default defineConfig({
           { 
             text: 'Topping', link: '/de/topping',
           },
+          { text: 'Geschichte', link: '/de/history' },
         ]
       }
     ],
