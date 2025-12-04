@@ -26,6 +26,9 @@ export default defineConfig({
           { text: 'Periphery', link: '/en/periphery' },
           { 
             text: 'Topping', link: '/en/topping',
+            items:[
+              { text: 'Setup', link: '/de/topping/setup' }
+            ]
           },
           { text: 'History', link: '/en/history' },
         ]
