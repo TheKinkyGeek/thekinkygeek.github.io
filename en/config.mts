@@ -31,6 +31,7 @@ export default defineConfig({
             ]
           },
           { text: 'History', link: '/en/history' },
+          { text: 'Tools', link: '/en/tools' },
         ]
       }
     ],
