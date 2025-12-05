@@ -37,3 +37,9 @@ The lower section contains the control for the multiplexer, which has three mode
 #### Manually
 
 <a href="/images/topping/setup/topping_setup_estim_module_controller_multiplexer_man.png" target="_blank">![Modules Action Estim](/images/topping/setup/topping_setup_estim_module_controller_multiplexer_man.png)</a>
+
+### Presets
+
+Just a quick demonstration of the controlling from a preset which is coming from the database. The runtime is working fully automatically which could be combined in a session in different variations and levels. This one is Knocking:
+
+<video src="/videos/topping/setup/topping_setup_estim_presets_runtime_knocking_demo.mp4" controls width="600"></video>
