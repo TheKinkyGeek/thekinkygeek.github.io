@@ -1,1 +1,0 @@
-import{_ as r,c as t,o,al as i}from"./chunks/framework.Dw_zR042.js";const g=JSON.parse('{"title":"Tools","description":"","frontmatter":{},"headers":[],"relativePath":"de/tools.md","filePath":"de/tools.md"}'),a={name:"de/tools.md"};function n(s,e,l,h,c,d){return o(),t("div",null,[...e[0]||(e[0]=[i("",8)])])}const m=r(a,[["render",n]]);export{g as __pageData,m as default};

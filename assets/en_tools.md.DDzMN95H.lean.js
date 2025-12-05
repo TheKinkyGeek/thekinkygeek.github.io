@@ -1,0 +1,1 @@
+import{_ as r,c as t,o,al as a}from"./chunks/framework.BSVAUK47.js";const m=JSON.parse('{"title":"Tools","description":"","frontmatter":{},"headers":[],"relativePath":"en/tools.md","filePath":"en/tools.md"}'),s={name:"en/tools.md"};function l(i,e,n,h,c,p){return o(),t("div",null,[...e[0]||(e[0]=[a("",8)])])}const g=r(s,[["render",l]]);export{m as __pageData,g as default};
