@@ -13,33 +13,3 @@ werden zunächst alle Module die angeschlossen und eingeschalten sind erkannt. D
 Über das **Actions** Menü lässt sich zum jeweiligen Modul die Steuerung aufrufen, ein Firmware Update machen oder die dazugehörigen Datenbank Presets aufrufen:
 
 <a href="/images/topping/setup/topping_setup_modules_actions_estim.png" target="_blank">![Modules Action Estim](/images/topping/setup/topping_setup_modules_actions_estim.png)</a>
-
-## Estim Module Controller
-
-<a href="/images/topping/setup/topping_setup_estim_module_controller.png" target="_blank">![Modules Action Estim](/images/topping/setup/topping_setup_estim_module_controller.png)</a>
-
-Ich habe das Fenster ähnlich aufgebaut wie die [Commander Software](https://e-stim.info/commander) von [E-Stim Systems](http://www.e-stim.co.uk/). Ein paar Dinge habe ich mir des Komfort Wegens dazu gebaut.
-
-Grundsätzlich möchte ich damit die Funktionalitäten des 2B für mich testen. Dazu ist es bestens geeignet.
-
-Im Unteren Bereich befindet sich die Steuerung für den Multiplexer den es in drei Modis gibt.
-
-### Multiplexer Steuerung
-
-#### Kanal A / B Unabhängig
-
-<a href="/images/topping/setup/topping_setup_estim_module_controller_multiplexer_prg.png" target="_blank">![Modules Action Estim](/images/topping/setup/topping_setup_estim_module_controller_multiplexer_prg.png)</a>
-
-#### Kanal A / B Kombiniert
-
-<a href="/images/topping/setup/topping_setup_estim_module_controller_multiplexer_combined.png" target="_blank">![Modules Action Estim](/images/topping/setup/topping_setup_estim_module_controller_multiplexer_combined.png)</a>
-
-#### Manuell
-
-<a href="/images/topping/setup/topping_setup_estim_module_controller_multiplexer_man.png" target="_blank">![Modules Action Estim](/images/topping/setup/topping_setup_estim_module_controller_multiplexer_man.png)</a>
-
-### Presets
-
-Hier eine kurze Demonstration der Steuerung über ein Preset aus der Datenbank. Die Laufzeitumgebung arbeitet vollautomatisch und kann in verschiedenen Variationen und Levels innerhalb einer Session kombiniert werden. Dieses Beispiel zeigt das Knocking:
-
-<video src="/videos/topping/setup/topping_setup_estim_presets_runtime_knocking_demo.mp4" controls width="600"></video>
